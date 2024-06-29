@@ -6,6 +6,6 @@
 
 **Domain:**Java Programming
 
-**Duration:** 15th June - 15th July 2024
+**Duration:**15th June - 15th July 2024
 
 **Mentor:** SRAVANI GOUNI
