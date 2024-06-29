@@ -34,3 +34,6 @@ In summary, the Java calculator program efficiently prompts users for two number
 
 **OUTPUT**
 
+![TASK 1](https://github.com/AyushKumar2201/Codtech-Task1/assets/174185198/28b7a5d5-b30b-40c8-83d3-2f41d1e1cc30)
+
+
